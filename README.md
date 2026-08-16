@@ -4,6 +4,8 @@
 
 Converge helps provision, deploy, verify, monitor, and recover application environments across cloud providers.
 
+> **“Good things take time.”**
+
 ### What it does
 
 * Multi-cloud environment provisioning
